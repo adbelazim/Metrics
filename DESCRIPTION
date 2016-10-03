@@ -1,0 +1,8 @@
+Package: Metrics
+Type: Package
+Title: Metrics
+Version: 0.1.0
+Author: José Luis Jara
+Maintainer: Cristóbal Vásquez <cristobal.vasquez@usach.cl>
+Description: Obtención del error cuadrático medio necesario para obtener el template con mejor ajuste al modelo.
+LazyData: TRUE
